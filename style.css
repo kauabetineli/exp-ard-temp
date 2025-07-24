@@ -1,0 +1,22 @@
+* {
+    margin:0px;
+    padding: 0px;
+}
+
+body {
+    text-align: center;
+}
+
+h1, h2 {
+    border-radius: 16px;
+    margin: 20px;
+}
+
+h1 {
+    background-color: rgb(187, 143, 231);
+}
+
+h2 {
+    background-color: rgb(252, 211, 252);
+}
+
